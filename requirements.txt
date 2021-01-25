@@ -1,0 +1,4 @@
+python-binance
+TA-lib
+Numpy
+websocket_client
